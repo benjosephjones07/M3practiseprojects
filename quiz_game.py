@@ -6,3 +6,5 @@ if playing != "yes":
     quit()
 
 print("Okay, let's play!")
+
+answer = input("")
